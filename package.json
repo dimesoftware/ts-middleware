@@ -17,7 +17,7 @@
     "url": "https://github.com/dimenics/ts-middleware/issues"
   },
   "homepage": "https://github.com/dimenics/ts-middleware#readme",
-  "dependencies": {
-    "@dimenics/dime-ts-middleware": "^0.0.3"
+  "devDependencies": {
+    "typescript": "3.9.3"
   }
 }

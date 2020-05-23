@@ -1,14 +1,14 @@
 # Middleware Manager
 
-![npm](https://img.shields.io/npm/v/@dimenics/dime-middleware)
-
-Typescriptified version of the [js-middleware](https://github.com/unbug/js-middleware/issues) repo. Kudos to the original [author](https://github.com/unbug) for such an elegant mini-framework.
+![npm](https://img.shields.io/npm/v/@dimenics/dime-middleware) [![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=dimenics_ts-middleware&metric=alert_status)](https://sonarcloud.io/dashboard?id=dimenics_ts-middleware)
+   
+Typescriptified version of the [js-middleware](https://github.com/unbug/js-middleware) repo. Kudos to the original [@author](https://github.com/unbug) for such an elegant mini-framework.
 
 ## Getting Started
 
-Run `yarn add @dimenics/dime-middleware`  or `@dimenics/dime-middleware` to add the package to your project.
+Run `yarn add @dimenics/dime-middleware`  or `npm install @dimenics/dime-middleware` to add the package to your project.
 
-The usage is more or less the same as [js-middleware](https://github.com/unbug/js-middleware/issues) repo.
+The usage is more or less the same as [js-middleware](https://github.com/unbug/js-middleware) repo.
 
 ## About this project
 
