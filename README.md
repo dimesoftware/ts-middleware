@@ -1,6 +1,6 @@
 # Middleware Manager
 
-![npm](https://img.shields.io/npm/v/@dimenics/dime-middleware) [![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=dimenics_ts-middleware&metric=alert_status)](https://sonarcloud.io/dashboard?id=dimenics_ts-middleware)
+[![Build Status](https://dev.azure.com/dimenicsbe/Utilities/_apis/build/status/dimenics.ts-middleware?branchName=master)](https://dev.azure.com/dimenicsbe/Utilities/_build/latest?definitionId=140&branchName=master) [![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=dimenics_ts-middleware&metric=alert_status)](https://sonarcloud.io/dashboard?id=dimenics_ts-middleware) ![npm](https://img.shields.io/npm/v/@dimenics/dime-middleware)
    
 Typescriptified version of the [js-middleware](https://github.com/unbug/js-middleware) repo. Kudos to the original [@author](https://github.com/unbug) for such an elegant mini-framework.
 
