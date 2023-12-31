@@ -1,10 +1,10 @@
 {
-  "name": "@dimenics/dime-middleware",
-  "version": "0.0.1",
+  "name": "@dimesoftware/ts-middleware",
+  "version": "0.1.0",
   "main": "dist/index.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/dimenics/ts-middleware.git"
+    "url": "git+https://github.com/dimesoftware/ts-middleware.git"
   },
   "author": "Hendrik Bulens <hendrik.bulens@gmail.com>",
   "types": "dist/index.d.ts",
@@ -12,11 +12,11 @@
   "scripts": {
     "build": "tsc"
   },
-  "description": "",
+  "description": "Typescriptified version of the [js-middleware](https://github.com/unbug/js-middleware) repo. Kudos to the original [@author](https://github.com/unbug) for such an elegant mini-framework.",
   "bugs": {
-    "url": "https://github.com/dimenics/ts-middleware/issues"
+    "url": "https://github.com/dimesoftware/ts-middleware/issues"
   },
-  "homepage": "https://github.com/dimenics/ts-middleware#readme",
+  "homepage": "https://github.com/dimesoftware/ts-middleware#readme",
   "devDependencies": {
     "typescript": "3.9.3"
   }

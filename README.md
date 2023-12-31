@@ -1,12 +1,10 @@
-# Middleware Manager
+# TypeScript middleware pipeline
 
-[![Build Status](https://dev.azure.com/dimenicsbe/Utilities/_apis/build/status/dimenics.ts-middleware?branchName=master)](https://dev.azure.com/dimenicsbe/Utilities/_build/latest?definitionId=140&branchName=master) [![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=dimenics_ts-middleware&metric=alert_status)](https://sonarcloud.io/dashboard?id=dimenics_ts-middleware) ![npm](https://img.shields.io/npm/v/@dimenics/dime-middleware)
-   
 Typescriptified version of the [js-middleware](https://github.com/unbug/js-middleware) repo. Kudos to the original [@author](https://github.com/unbug) for such an elegant mini-framework.
 
 ## Getting Started
 
-Run `yarn add @dimenics/dime-middleware`  or `npm install @dimenics/dime-middleware` to add the package to your project.
+Run `yarn add @dimesoftware/ts-middleware`  or `npm install @dimesoftware/ts-middleware` to add the package to your project.
 
 The usage is more or less the same as [js-middleware](https://github.com/unbug/js-middleware) repo.
 

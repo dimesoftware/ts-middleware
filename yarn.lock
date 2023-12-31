@@ -2,21 +2,7 @@
 # yarn lockfile v1
 
 
-"@dimenics/dime-ts-middleware@^0.0.1":
-  version "0.0.1"
-  resolved "https://registry.yarnpkg.com/@dimenics/dime-ts-middleware/-/dime-ts-middleware-0.0.1.tgz#7edc59a5547f2b86f20114113b22a8ffde48cd90"
-  integrity sha512-dLot1SaO3jP/8PP5DyUynDf7phxInZEOjIkVi5VIS02W0Y1Qv7U/AyYkvR5/5MWLKM+6+pRhvVmeyyKvDD0+yQ==
-
-"@dimenics/dime-ts-middleware@^0.0.2":
-  version "0.0.2"
-  resolved "https://registry.yarnpkg.com/@dimenics/dime-ts-middleware/-/dime-ts-middleware-0.0.2.tgz#8829c8fb0405aa622675d1b3da7adf454200d753"
-  integrity sha512-2948Wjh7p3/HMQs5HU4qNd/zuAL58qGtJukLwX2fiu9emfFPqYZpbLtfL+KEeZKeRiV9GuAh43KwLyiAqdzGEg==
-  dependencies:
-    "@dimenics/dime-ts-middleware" "^0.0.1"
-
-"@dimenics/dime-ts-middleware@^0.0.3":
-  version "0.0.3"
-  resolved "https://registry.yarnpkg.com/@dimenics/dime-ts-middleware/-/dime-ts-middleware-0.0.3.tgz#ae475a666d637729f5bb57ccac0a0369d7e39336"
-  integrity sha512-M0Wj1R4sAS6ytmhYYd4uoaBo5wvFsGyLnYoXhm2/GmWztik8T08WyVj/n53h+rz94Ri0/Sy603bGn/aWjjtgmw==
-  dependencies:
-    "@dimenics/dime-ts-middleware" "^0.0.2"
+typescript@3.9.3:
+  version "3.9.3"
+  resolved "https://registry.yarnpkg.com/typescript/-/typescript-3.9.3.tgz#d3ac8883a97c26139e42df5e93eeece33d610b8a"
+  integrity sha512-D/wqnB2xzNFIcoBG9FG8cXRDjiqSTbG2wd8DMZeQyJlP1vfTkIxH4GKveWaEBYySKIg+USu+E+EDIR47SqnaMQ==
